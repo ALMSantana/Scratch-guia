@@ -8,7 +8,7 @@
 * [Introdução](/1-Comunidade-Linguagem-Filosofia/README.md)
 * [Oficina Scratch para Educadores](/1-Comunidade-Linguagem-Filosofia/Producoes.md)
 * [Rede de Aprendizagem Criativa](/1-Comunidade-Linguagem-Filosofia/Rede-Aprendizagem-Criativa.md)
-* [Fórum](/1-Comunidade-Linguagem-Filosofia/Forum.md)
+* [Fórum do Scratch](/1-Comunidade-Linguagem-Filosofia/Forum.md)
 
 ## Como Usar
 
