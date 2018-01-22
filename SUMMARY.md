@@ -6,16 +6,15 @@
 ## A Comunidade, Linguagem e Filosofia
 
 * [Introdução](/1-Comunidade-Linguagem-Filosofia/README.md)
-* [Produções da Comunidade](/1-Comunidade-Linguagem-Filosofia/Producoes.md)
+* [Oficina Scratch para Educadores](/1-Comunidade-Linguagem-Filosofia/Producoes.md)
 * [Rede de Aprendizagem Criativa](/1-Comunidade-Linguagem-Filosofia/Rede-Aprendizagem-Criativa.md)
-* [A Comunidade](/1-Comunidade-Linguagem-Filosofia/Comunidade.md)
 * [Fórum](/1-Comunidade-Linguagem-Filosofia/Forum.md)
 
 ## Como Usar
 
 * [Introdução](/2-ComoUsar/README.md)
 * [Entendendo cada Aba](/2-ComoUsar/Abas.md)
-* [Linguagem Visual com Cards](/2-ComoUsar/Card.md)
+* [Scratch Cards](/2-ComoUsar/Card.md)
 
 ## Atividades com Scratch
 
